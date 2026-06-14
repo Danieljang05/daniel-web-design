@@ -1,0 +1,1 @@
+console.log("Daniel Jang Web Design");
